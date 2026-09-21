@@ -10,7 +10,7 @@ El sistema utiliza tres niveles:
 - 🥈 Plata
 - 🥇 Oro
 
-Cada nivel representa un grado diferente de cumplimiento, documentación, revisión y mejora del proyecto.
+Cada nivel representa un grado diferente de cumplimiento, documentación, revisión y mejora del proyecto..
 
 ---
 
