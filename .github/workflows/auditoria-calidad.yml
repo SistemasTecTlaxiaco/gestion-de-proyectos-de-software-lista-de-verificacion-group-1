@@ -1,0 +1,22 @@
+﻿name: Auditoría automática de calidad
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  auditoria:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Ejecutar auditoría
+        shell: pwsh
+        run: |
+          ./scripts/AUDITAR-REPOSITORIO.ps1
