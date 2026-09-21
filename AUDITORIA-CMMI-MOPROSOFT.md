@@ -61,3 +61,4 @@ MoProSoft: En proceso de auditoría.
 Insignia: Pendiente.
 
 La clasificación final se determinará después de aplicar la auditoría real al repositorio.
+.
