@@ -1,7 +1,7 @@
 ﻿# AUDITORÍA Y ADAPTACIÓN CMMI - MOPROSOFT
 
 ## Objetivo
-Relacionar la lista de verificación con prácticas de CMMI y procesos de MoProSoft, adaptándolos al trabajo colaborativo realizado mediante GitHub.
+Relacionar la lista de verificación con prácticas de CMMI y procesos de MoProSoft, adaptándolos al trabajo colaborativo realizado mediante GitHub..
 
 ## 1. Adaptación de CMMI.
 
