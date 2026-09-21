@@ -3,7 +3,7 @@
 ## Objetivo
 Relacionar la lista de verificación con prácticas de CMMI y procesos de MoProSoft, adaptándolos al trabajo colaborativo realizado mediante GitHub.
 
-## 1. Adaptación de CMMI
+## 1. Adaptación de CMMI.
 
 | ID | Criterio | Relación con CMMI | Evidencia |
 |---|---|---|---|
