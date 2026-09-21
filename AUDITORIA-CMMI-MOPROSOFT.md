@@ -58,7 +58,7 @@ Repositorio GitHub -> Checklist -> Auditoría automática -> Revisión manual ->
 
 CMMI: En proceso de auditoría.
 MoProSoft: En proceso de auditoría.
-Insignia: Pendiente.
+Insignia: Pendientee
 
 La clasificación final se determinará después de aplicar la auditoría real al repositorio.
 .
